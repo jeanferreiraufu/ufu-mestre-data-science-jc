@@ -1,0 +1,22 @@
+# Arquivos gerados pelo Maven
+target/
+
+# Arquivos gerados pelo Gradle
+build/
+
+# Arquivos gerados pelo Eclipse
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# Arquivos bytecode Java
+*.class
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
