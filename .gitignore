@@ -1,0 +1,7 @@
+
+/.vscode
+*.zip
+*.pdf
+*.pptx
+*.code-workspace
+/pgc101-LogicaAlgoritimo/Trabalho03/Trabalho3_Escalonamento_de_tarefas/results
