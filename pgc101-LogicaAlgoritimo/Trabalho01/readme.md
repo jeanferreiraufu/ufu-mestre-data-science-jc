@@ -1,9 +1,4 @@
 # Trabalho - Aplicação de divide-and-conquer
-Docente: Marcia Aparecida Fernandes
-* Alunos:
-Arthur José dos Santos
-Jean Carlo Alves Ferreira
-Maria Gabriela Cuenca Oliva
 
 ## Problema: Remoção de Duplicatas.
 
